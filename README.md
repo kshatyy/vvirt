@@ -80,4 +80,4 @@
 
 Скриншот-1 к заданию 5:
 
-![Скриншот-1](https://github.com/kshatyy/bd02/blob/main/img/4-1.png)
+![Скриншот-1](https://github.com/kshatyy/bd02/blob/main/img/4.png)
